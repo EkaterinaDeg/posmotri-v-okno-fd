@@ -56,8 +56,7 @@ ol {
   inline-size: 194px;
   font-size: 18px;
   color: inherit;
-  border: 1px solid #fff; /*currentColor*/
-  color: inherit;
+  border: 1px solid currentColor;
   line-height: normal;
   justify-content: center;
   align-items: center;
