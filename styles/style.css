@@ -78,7 +78,6 @@ article {
   display: grid;
   grid-template-columns: 711px 399px;
   grid-template-areas: "result content__details";
-  block-size: 534px;
   align-items: end;
   gap: 30px;
   color: inherit;
@@ -185,7 +184,7 @@ article {
 .content__list-container {
   position: relative;
   width: 100%;
-  max-height: 298px;
+  height: 298px;
   overflow: auto;
 }
 
